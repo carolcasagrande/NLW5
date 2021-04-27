@@ -1,4 +1,4 @@
-# NLW5 | PODCAST
+# NLW5 | PODCAST 🚀
 ## Curso de React desenvolvido na NLW5 da Rocketseat.
 
 ### 🛠 Tecnologias
@@ -13,8 +13,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Axios](https://www.npmjs.com/package/axios)
 
 *  HOME
-    ![home]()
+    ![home](https://github.com/carolcasagrande/NLW5/blob/main/public/home.PNG)
 
 *  PODCAST
-    ![podcast]()
+    ![podcast](https://github.com/carolcasagrande/NLW5/blob/main/public/podcast.PNG)
+
+### Autor 💜💚
+<a href="https://www.linkedin.com/in/carolinecasagrande/">Caroline Casagrande
+
+
 
